@@ -2,6 +2,9 @@
 Changelog for package pal_gripper_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+3.0.1 (2022-12-15)
+------------------
+
 3.0.0 (2022-10-26)
 ------------------
 * Merge branch 'cleanup' into 'humble-devel'
