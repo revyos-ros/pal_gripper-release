@@ -2,6 +2,9 @@
 Changelog for package pal_gripper_controller_configuration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+3.0.2 (2023-02-08)
+------------------
+
 3.0.1 (2022-12-15)
 ------------------
 * Merge branch 'sim_time' into 'humble-devel'
