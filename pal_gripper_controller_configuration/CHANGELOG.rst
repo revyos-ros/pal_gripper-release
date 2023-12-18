@@ -2,6 +2,21 @@
 Changelog for package pal_gripper_controller_configuration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+3.0.7 (2023-12-12)
+------------------
+* adding the pal_gripper_controller launcher
+* Contributors: Aina Irisarri
+
+3.0.6 (2023-12-11)
+------------------
+* Add left and right controller
+* Contributors: David ter Kuile
+
+3.0.5 (2023-11-14)
+------------------
+* Add website tag
+* Contributors: Noel Jimenez
+
 3.0.4 (2023-04-17)
 ------------------
 
