@@ -2,6 +2,11 @@
 Changelog for package pal_gripper_controller_configuration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+3.2.0 (2024-06-18)
+------------------
+* aadd broadcaster controller & the gazebo configuration
+* Contributors: Aina Irisarri
+
 3.1.0 (2024-01-18)
 ------------------
 * Merge branch 'tiago-dual' into 'humble-devel'
