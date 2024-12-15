@@ -1,0 +1,182 @@
+ros-humble-pal-gripper-simulation (3.4.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Mon, 04 Nov 2024 16:00:00 -0000
+
+ros-humble-pal-gripper-simulation (3.3.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Tue, 06 Aug 2024 16:00:00 -0000
+
+ros-humble-pal-gripper-simulation (3.2.0-1bookworm) bookworm; urgency=high
+
+  * remove unnecessary find_package
+  * add joint_broadcaster controlker
+  * create pal_gripper_simulation package
+  * Contributors: Aina Irisarri
+  * remove unnecessary find_package
+  * add joint_broadcaster controlker
+  * create pal_gripper_simulation package
+  * Contributors: Aina Irisarri
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Mon, 17 Jun 2024 16:00:00 -0000
+
+ros-humble-pal-gripper-simulation (3.1.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Wed, 17 Jan 2024 16:00:00 -0000
+
+ros-humble-pal-gripper-simulation (3.0.7-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Mon, 11 Dec 2023 16:00:00 -0000
+
+ros-humble-pal-gripper-simulation (3.0.6-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Sun, 10 Dec 2023 16:00:00 -0000
+
+ros-humble-pal-gripper-simulation (3.0.5-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Mon, 13 Nov 2023 16:00:00 -0000
+
+ros-humble-pal-gripper-simulation (3.0.4-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Sun, 16 Apr 2023 16:00:00 -0000
+
+ros-humble-pal-gripper-simulation (3.0.3-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Tue, 28 Feb 2023 16:00:00 -0000
+
+ros-humble-pal-gripper-simulation (3.0.2-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Tue, 07 Feb 2023 16:00:00 -0000
+
+ros-humble-pal-gripper-simulation (3.0.1-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Wed, 14 Dec 2022 16:00:00 -0000
+
+ros-humble-pal-gripper-simulation (3.0.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Tue, 25 Oct 2022 16:00:00 -0000
+
+ros-humble-pal-gripper-simulation (1.0.3-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Wed, 29 Apr 2020 16:00:00 -0000
+
+ros-humble-pal-gripper-simulation (1.0.2-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Mon, 10 Jun 2019 16:00:00 -0000
+
+ros-humble-pal-gripper-simulation (1.0.1-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Mon, 25 Mar 2019 16:00:00 -0000
+
+ros-humble-pal-gripper-simulation (1.0.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Sun, 29 Jul 2018 16:00:00 -0000
+
+ros-humble-pal-gripper-simulation (0.0.13-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Thu, 12 Apr 2018 16:00:00 -0000
+
+ros-humble-pal-gripper-simulation (0.0.12-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Mon, 19 Feb 2018 16:00:00 -0000
+
+ros-humble-pal-gripper-simulation (0.0.11-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Wed, 24 Jan 2018 09:11:00 -0000
+
+ros-humble-pal-gripper-simulation (0.0.10-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Wed, 24 Jan 2018 03:23:00 -0000
+
+ros-humble-pal-gripper-simulation (0.0.9-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Thu, 13 Oct 2016 16:00:00 -0000
+
+ros-humble-pal-gripper-simulation (0.0.8-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Mon, 19 Sep 2016 16:00:00 -0000
+
+ros-humble-pal-gripper-simulation (0.0.7-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Wed, 27 Jul 2016 16:00:00 -0000
+
+ros-humble-pal-gripper-simulation (0.0.6-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Thu, 21 Jul 2016 16:00:00 -0000
+
+ros-humble-pal-gripper-simulation (0.0.5-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Tue, 14 Jun 2016 16:00:00 -0000
+
+ros-humble-pal-gripper-simulation (0.0.4-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Mon, 13 Jun 2016 06:30:00 -0000
+
+ros-humble-pal-gripper-simulation (0.0.3-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Mon, 13 Jun 2016 04:53:00 -0000
+
+ros-humble-pal-gripper-simulation (0.0.2-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Thu, 09 Jun 2016 16:00:00 -0000
+
+ros-humble-pal-gripper-simulation (0.0.1-1bookworm) bookworm; urgency=high
+
+
+
+ -- Aina Irisarri <aina.irisarri@pal-robotics.com>  Tue, 31 May 2016 16:00:00 -0000
+
+
